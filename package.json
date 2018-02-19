@@ -101,5 +101,16 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "Srijit S Madhavan",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srijitcoder/ReactJS-ReadyToUse.git"
+  },
+  "keywords": [
+    "ReactJS"
+  ],
+  "bugs": {
+    "url": "https://github.com/srijitcoder/ReactJS-ReadyToUse/issues"
+  },
+  "homepage": "https://github.com/srijitcoder/ReactJS-ReadyToUse#readme"
 }
