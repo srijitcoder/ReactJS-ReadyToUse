@@ -10,8 +10,8 @@ import Test from './Test';
 export default () => (
     <BrowserRouter>
         <Switch>
-            <PrivateRoute path="/*" exact Component={Test} /> } />
             <PrivateRoute path="/Profile" exact Component={Profile} /> } />
+            <PrivateRoute path="/*" exact Component={Test} /> } />
         </Switch>
     </BrowserRouter>
 );
